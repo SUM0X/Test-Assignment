@@ -1,3 +1,5 @@
+# Callum Campbell
+
 # Makes a flower pattern
 
 t  <- 1:500
