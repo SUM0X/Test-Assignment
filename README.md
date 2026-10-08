@@ -1,6 +1,12 @@
 # Test-Assignment - Callum Campbell
 This is a test assignment for the Data Science in EES course.
 
+<p align="center">
+  <img src="DataSciEES_logo.jpg" width="200" height="200" />
+</p>
+
+See [R Markdown](look_here/My Submission.Rmd)
+
 To complete this assignment please do not use the website GUI unless specifically instructed - this activity is getting you used to interfacing with Github through R studio:
 
 1. Fork this repository to your own GitHub account.

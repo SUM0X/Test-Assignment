@@ -37,3 +37,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# R proj user files ignored due to user conflicts from machine/user specific data
+.Rproj.user
+
